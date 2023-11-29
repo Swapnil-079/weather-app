@@ -15,10 +15,6 @@ function App() {
         | Developed by{" "}
         <a target="_blank" href="https://www.gauravghai.dev/">
           Swapnil Pandit
-        </a>{" "}
-        | Powered by{" "}
-        <a target="_blank" href="https://www.htmlhints.com/">
-          HTML HINTS
         </a>
       </div>
     </React.Fragment>
